@@ -1,0 +1,11 @@
+### Data Pelanggan ###
+1,Herman Yanto,Jalan Flores No.3,081251352
+2,Budi Santoso,Jalan Hiu No.28,0813523523
+3,Irfan Abdullah,Jalan Sudirman No.10,081634623
+4,Siti Rahayu,Jalan Pahlawan No.5,0725754
+5,Dewi Lestari,Jalan Imam No.9,0383732
+6,Rizki Pratama,Jalan Seram No.6,038247247
+7,Hadi Nugroho,Jalan Gajah No.7,537347
+8,Anisa Fitriani,Jalan Diponegoro No.6,0536536
+9,Nia Puspitasari,Jalan Merdeka No.20,08156246
+10,Fattan Naufan Islami,Jalan Paus No.2,08127363456
